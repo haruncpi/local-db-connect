@@ -3,7 +3,7 @@
 # DB Connect
 An addon for localWP
 
-<img width="1019" alt="Screenshot 2024-10-20 at 7 30 19 PM" src="https://github.com/user-attachments/assets/7e68bf16-0d37-43cf-b2b9-af4d5e86bf95">
+![db-connect](https://github.com/user-attachments/assets/eb4220f8-3eda-4d3e-b4eb-834b9e1c8cbd)
 </div>
 
 ## Features
